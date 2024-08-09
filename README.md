@@ -8,4 +8,4 @@ Because data science is multi-disciplinary and machine learning can have a lot o
 
 ## Now What?
 - [Here's the 90 Minute video](https://www.youtube.com/watch?v=VMx_3yM6G9s)
-- [Here's the companion code notebook to run with zero setup](https://colab.research.google.com/github/ryanorsinger/90-minutes-to-machine-learning/blob/main/90_minutes_to_machine_learning.ipynb.)
+- [Here's the companion code notebook to run with zero setup](https://colab.research.google.com/github/ryanorsinger/90-minutes-to-machine-learning/blob/main/90_minutes_to_machine_learning.ipynb)
